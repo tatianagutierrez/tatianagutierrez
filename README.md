@@ -1,5 +1,5 @@
 <div align="center">
-  <img  width=700px align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
+  <img  width=600px align="center" alt="Banner" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
 
   <h1>Hi there, I am <span style="color:#836FFF;">Tatiana</span>
